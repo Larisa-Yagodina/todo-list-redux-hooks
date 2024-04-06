@@ -1,0 +1,29 @@
+.btn {
+    border: 1px solid teal;
+    cursor: pointer;
+    color: teal;
+    padding: 6px 20px;
+    background: #e2f5f5;
+    margin: 5px 10px;
+}
+
+.btn:hover {
+    opacity: 0.7;
+}
+
+.clear {
+    border: none;
+    background: none;
+    outline: none;
+    padding: 0;
+}
+
+.outline {
+    background: none;
+}
+
+.outline_danger {
+    background: none;
+    border: 1px solid #e50b85;
+    color: #e50b85;
+}
